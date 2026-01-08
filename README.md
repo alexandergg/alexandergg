@@ -4,14 +4,12 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Alexander+Gonz%C3%A1lez;AI+Solution+Architect+%40+Avanade;Microsoft+AI+MVP+%7C+5x+Awarded;Building+AI+Agents+%26+GenAI+Solutions)](https://github.com/alexandergg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Alexander+Gonz%C3%A1lez;AI+Solution+Architect;Microsoft+AI+MVP+%7C+6x+Awarded;Building+Generative+AI+Solutions)](https://github.com/alexandergg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-gonz%C3%A1lez-0b388177/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alexndrglez)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexglezglez96@gmail.com)
-[![MVP Profile](https://img.shields.io/badge/Microsoft_MVP-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5003838)
-
----
+<a href="https://www.linkedin.com/in/alexander-gonz%C3%A1lez-0b388177/"><img src="assets/linkedin-icon.png" height="28" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/alexndrglez"><img src="https://cdn.simpleicons.org/x/000000" width="28" alt="Twitter"></a>&nbsp;&nbsp;
+<a href="mailto:alexglezglez96@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" alt="Email"></a>&nbsp;&nbsp;
+<a href="https://mvp.microsoft.com/en-us/PublicProfile/5003838"><img src="assets/mvp-icon.png" height="28" alt="Microsoft MVP"></a>
 
 ## About Me
 
@@ -22,25 +20,23 @@ AI Solution Architect and Entrepreneur leading high-impact **Generative AI** and
 <td width="50%">
 
 ### 🎯 Currently
-- 🏢 AI Solution Architect @ **Avanade**
-- 🌍 Based in **Madrid, Spain**
-- 🔭 Building **AI Agents** & **RAG Architectures**
-- 🎤 Speaker at **Microsoft Ignite** & **Global AI Bootcamps**
+- 🏢 AI/Data Solution Architect
+- 🌍 Based in **Madrid, Spain** & **Tenerife, Spain** 
+- 🔭 Building **Machine Learning / Generative AI Architectures**
+- 🎤 Speaker at **Microsoft events** & **Bootcamps**
 
 </td>
 <td width="50%">
 
 ### 🏆 Recognition
-- 🥇 **Microsoft AI MVP** (2020-2025)
-- 📅 5 consecutive years awarded
+- 🥇 **Microsoft AI MVP** (2020-2026)
+- 📅 6 consecutive years awarded
 - 🎓 University Guest Lecturer
 - 🌐 Languages: 🇪🇸 Spanish · 🇬🇧 English
 
 </td>
 </tr>
 </table>
-
----
 
 ## Tech Stack
 
@@ -85,7 +81,6 @@ AI Solution Architect and Entrepreneur leading high-impact **Generative AI** and
 </tr>
 </table>
 
-<details>
 <summary><b>🔧 More Technologies</b></summary>
 <br>
 
@@ -139,20 +134,6 @@ AI Solution Architect and Entrepreneur leading high-impact **Generative AI** and
 </tr>
 </table>
 
-</details>
-
----
-
-## Experience
-
-| Company | Role | Period |
-|:-------:|:----:|:------:|
-| <img src="https://img.shields.io/badge/Avanade-FF5800?style=flat&logo=accenture&logoColor=white" /> | AI Solution Architect | 2023 - Present |
-| <img src="https://img.shields.io/badge/Plain_Concepts-000000?style=flat&logoColor=white" /> | ML Engineer / Data Scientist | 2018 - 2023 |
-| <img src="https://img.shields.io/badge/Microsoft-5C2D91?style=flat&logo=microsoft&logoColor=white" /> | Azure Architect Advisor | 2015 - 2018 |
-| <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> | Docker Ambassador | 2017 - 2018 |
-
----
 
 ## Awards & Recognition
 
