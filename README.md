@@ -3,22 +3,22 @@
 <img src="assets/header-banner.png" width="100%" alt="AI Solution Architect Banner">
 
 ## Alexander González  
-**Data & AI Cloud Solution Architect & Microsoft AI MVP**
+**Data & AI Cloud Solution Architect**
+
+Microsoft AI MVP · Speaker · Enterprise AI & Cloud Architectures
 
 <a href="https://www.linkedin.com/in/alexander-gonz%C3%A1lez-0b388177/"><img src="assets/linkedin-icon.png" height="24" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/alexndrglez"><img src="https://cdn.simpleicons.org/x/000000" width="24" alt="Twitter"></a>&nbsp;&nbsp;
 <a href="mailto:alexglezglez96@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" alt="Email"></a>&nbsp;&nbsp;
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003838"><img src="assets/mvp-icon.png" height="24" alt="Microsoft MVP"></a>
 
-Transforming complex business challenges into innovative AI platforms. 🚀 Building Generative AI & Agent solutions across EMEA.
+Designing production-grade data, AI, and cloud solutions across EMEA.  
+Helping organizations turn complex business challenges into scalable, enterprise-ready platforms.
 
 
-## Tech Stack
+## Focus Areas
 
-**🤖 AI & ML** | Python, PyTorch, TensorFlow, OpenCV  
-**☁️ Cloud** | Azure, Docker, Kubernetes, GitHub  
-**🧠 GenAI** | Claude, GPT-4o, LangChain, Semantic Kernel  
-**🗂️ Data** | Databricks, Spark, MLflow, Azure AI Search
+Generative AI · AI Agents · Data Platforms · Cloud Architecture · MLOps
 
 
 
@@ -48,6 +48,6 @@ Transforming complex business challenges into innovative AI platforms. 🚀 Buil
 
 ---
 
-<sub>Building the future of AI, one agent at a time.</sub>
+<sub>Building practical AI systems with enterprise impact.</sub>
 
 </div>
