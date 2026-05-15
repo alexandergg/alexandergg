@@ -3,7 +3,7 @@
 <img src="assets/header-banner.png" width="100%" alt="AI Solution Architect Banner">
 
 ## Alexander González  
-**AI Solution Architect & Microsoft AI MVP**
+**Data & AI Cloud Solution Architect & Microsoft AI MVP**
 
 <a href="https://www.linkedin.com/in/alexander-gonz%C3%A1lez-0b388177/"><img src="assets/linkedin-icon.png" height="24" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/alexndrglez"><img src="https://cdn.simpleicons.org/x/000000" width="24" alt="Twitter"></a>&nbsp;&nbsp;
