@@ -3,7 +3,7 @@
 <img src="assets/header-banner.png" width="100%" alt="AI Solution Architect Banner">
 
 ## Alexander González  
-**Data & AI Cloud Solution Architect**
+**AI Cloud Solution Architect**
 
 Microsoft AI MVP · Speaker · Enterprise AI & Cloud Architectures
 
@@ -12,7 +12,7 @@ Microsoft AI MVP · Speaker · Enterprise AI & Cloud Architectures
 <a href="mailto:alexglezglez96@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" alt="Email"></a>&nbsp;&nbsp;
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003838"><img src="assets/mvp-icon.png" height="24" alt="Microsoft MVP"></a>
 
-Designing production-grade data, AI, and cloud solutions across EMEA.  
+Designing production-grade data, AI, and cloud solutions.  
 Helping organizations turn complex business challenges into scalable, enterprise-ready platforms.
 
 
@@ -31,7 +31,7 @@ Generative AI · AI Agents · Data Platforms · Cloud Architecture · MLOps
   <img src="assets/MVP_Logo.png" width="140" alt="Microsoft AI MVP">
 </a>
 <br><b>Microsoft AI MVP</b><br>
-<sub>5 consecutive years (2020-2025)</sub>
+<sub>6 consecutive years (2020-2026)</sub>
 </td>
 <td align="center">
 <img src="assets/ms-student-partner.png" width="140" alt="Microsoft Student Partners">
